@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anita Angelidou
 - 👀 I’m interested in Fullstack Web Development...
 - 🌱 I’m currently creating projects with MERN stack...
-- 💞️ I’m looking to collaborate on Full Stack projects using React
+- 💞️ I’m looking to collaborate on Full Stack projects using Node.js and React
 - 📫 How to reach me anita.angelidou@gmail.com or my [LinkedIn](https://www.linkedin.com/in/anita-angelidou/) profile
 
 ## My Technical skills
